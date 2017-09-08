@@ -1,2 +1,7 @@
 Samples/*
-Preproc
+Samples
+Preproc*
+lib/*.pyc
+weights.*
+model.json
+tmp
